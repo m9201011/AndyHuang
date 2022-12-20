@@ -1,0 +1,30 @@
+[
+    {
+        "name": "GAZE盯睛設計官網",
+        "des": "RWD動態官網",
+        "webpimg":"/images/gaze.webp",
+        "jpgpimg":"/images/gaze.jpg",
+        "link":"https://gaze-design.com/"
+    },
+    {
+        "name": "諭方老師奇門易數",
+        "des": "RWD動態官網",
+        "webpimg":"/images/yufang.webp",
+        "jpgpimg":"/images/yufang.jpg",
+        "link":"https://yufang.vip/"
+    },
+    {
+        "name": "依蘭雅閑",
+        "des": "會員購物網站",
+        "webpimg":"/images/vedaroma.webp",
+        "jpgpimg":"/images/vedaroma.jpg",
+        "link":"https://www.vedaroma.com.tw/"
+    },
+    {
+        "name": "JHT健康美學心生活",
+        "des": "會員購物網站",
+        "webpimg":"/images/JHT.webp",
+        "jpgpimg":"/images/JHT.jpg",
+        "link":"https://www.jht2014.com/"
+    }
+]
