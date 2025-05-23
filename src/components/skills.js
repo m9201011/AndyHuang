@@ -52,7 +52,7 @@ const Skills = () => {
             </DesTitle>
             <DesBx>
               <ItemBx>
-                <div>HTML、CSS (熟悉)</div>
+                <div>HTML、CSS</div>
                 <ul>
                     <li>1.符合w3c規範的HTML</li>
                     <li>2.SCSS管理layout樣式、變數、mixin、include</li>
@@ -62,21 +62,21 @@ const Skills = () => {
               <ItemBx>
                 <div>JavaScript</div>
                 <ul>
-                    <li>1.JavaScript函式庫jQuery應用 (熟悉)</li>
-                    <li>2.介接 Restful API (使用經驗)</li>
+                    <li>1.JavaScript函式庫jQuery應用</li>
+                    <li>2.介接 Restful API</li>
                     <li>3.ECMAScript6語法應用 :<br/>let & const、Template Literals、Destructuring、Arrow Function ... (使用經驗)</li>
                 </ul>
               </ItemBx>
               <ItemBx>
                 <div>React</div>
                 <ul>
-                    <li>1.React Hook :<br/>useState、useEffect ...、並使用Props資料傳遞 (使用經驗)</li>
-                    <li>2.搭配emotion框架實現CSS in JS (使用經驗)</li>
-                    <li>3.React環境中使用fetch API (使用經驗)</li>
+                    <li>1.React Hook :<br/>useState、useEffect ...、並使用Props資料傳遞</li>
+                    <li>2.搭配emotion框架實現CSS in JS</li>
+                    <li>3.React router、React redux搭配Redux Saga串接APIs</li>
                 </ul>
               </ItemBx>
               <ItemBx>
-                <div>Other (使用經驗)</div>
+                <div>Other</div>
                 <ul>
                     <li>Git、Chrome Dev Tool、React Developer Tools、webpack、Eslint、SEO優化觀念</li>
                    
